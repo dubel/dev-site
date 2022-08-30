@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on dubel.dev</title>
-    <link>https://dubel.dev/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on dubel.dev</description>
     <image>
-      <url>https://dubel.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://dubel.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Aug 2022 17:11:29 +0200</lastBuildDate><atom:link href="https://dubel.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 17:11:29 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://dubel.dev/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Tue, 30 Aug 2022 17:11:29 +0200</pubDate>
       
-      <guid>https://dubel.dev/posts/my-first-post/</guid>
-      <description></description>
+      <guid>/posts/my-first-post/</guid>
+      <description>This is just a draft test of posting mechanism.</description>
     </item>
     
   </channel>
