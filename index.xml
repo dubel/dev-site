@@ -8,6 +8,16 @@
       <url>https://dubel.github.io/dev-site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://dubel.github.io/dev-site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dubel.github.io/dev-site/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Aug 2022 17:11:29 +0200</lastBuildDate><atom:link href="https://dubel.github.io/dev-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://dubel.github.io/dev-site/posts/my-first-post/</link>
+      <pubDate>Tue, 30 Aug 2022 17:11:29 +0200</pubDate>
+      
+      <guid>https://dubel.github.io/dev-site/posts/my-first-post/</guid>
+      <description>This is just a draft test of posting mechanism.</description>
+    </item>
+    
   </channel>
 </rss>
