@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://dubel.github.io/dev-site/sitemap.xml
+Sitemap: sitemap.xml

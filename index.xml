@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>dubel.dev</title>
-    <link>https://dubel.github.io/dev-site/</link>
+    <link>/</link>
     <description>Recent content on dubel.dev</description>
     <image>
-      <url>https://dubel.github.io/dev-site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://dubel.github.io/dev-site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Aug 2022 17:11:29 +0200</lastBuildDate><atom:link href="https://dubel.github.io/dev-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 17:11:29 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://dubel.github.io/dev-site/posts/my-first-post/</link>
+      <title>Back to glory 90&#39;s</title>
+      <link>/posts/my-first-post/</link>
       <pubDate>Tue, 30 Aug 2022 17:11:29 +0200</pubDate>
       
-      <guid>https://dubel.github.io/dev-site/posts/my-first-post/</guid>
-      <description>This is just a draft test of posting mechanism.</description>
+      <guid>/posts/my-first-post/</guid>
+      <description>The Year was 1998 (or so) - Your humble servant was merely scratching the surface of programming landscape. I&amp;rsquo;ve started my journey by writing some BASIC programs&amp;hellip; on a sheet of paper. Couple months later I&amp;rsquo;ve switched to Pascal.
+Those memories were brought to live when charity campaign #code16challenge was launched. Whole IT community was posting code snippets and sharing fundraising (for expensive treatment of 10 months old Maja). I&amp;rsquo;ve decided to dust my Pascal knowledge off and see if I can put together few lines of code.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aboutme/</guid>
+      <description>This is a description line!</description>
     </item>
     
   </channel>

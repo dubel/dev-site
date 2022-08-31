@@ -2,17 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dubel.github.io/dev-site/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2022-08-30T17:11:29+02:00</lastmod>
   </url><url>
-    <loc>https://dubel.github.io/dev-site/posts/my-first-post/</loc>
+    <loc>/</loc>
     <lastmod>2022-08-30T17:11:29+02:00</lastmod>
   </url><url>
-    <loc>https://dubel.github.io/dev-site/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-08-30T17:11:29+02:00</lastmod>
   </url><url>
-    <loc>https://dubel.github.io/dev-site/categories/</loc>
+    <loc>/aboutme/</loc>
   </url><url>
-    <loc>https://dubel.github.io/dev-site/tags/</loc>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
